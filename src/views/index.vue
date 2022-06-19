@@ -13,15 +13,15 @@
     </pre>
     </div>
     <ol>
-      <router-link tag="li" to="/multiplicationTable/">구구단 (6.19 ~ 6.26) </router-link>
+      <li>구구단 (6.19 ~ 6.26) </li>
 <!--      event-->
-      <router-link tag="li" to="/findWord/">가사 속 단어 찾기 (6.26 ~ 7.3)</router-link>
+      <li>가사 속 단어 찾기 (6.26 ~ 7.3)</li>
 <!--      computed-->
-      <router-link tag="li" to="/trafficLight/">신호등 (7.3 ~ 7.10) </router-link>
+      <li>신호등 (7.3 ~ 7.10) </li>
 <!--      watch, ref -->
-      <router-link tag="li" to="/endTalk/">끝말잇기  (7.10 ~ 7.17) </router-link>
+      <li>끝말잇기  (7.10 ~ 7.17) </li>
 <!--  lifeCycleHook, watch-->
-      <router-link tag="li" to="/numberBaseball/">숫자 야구  (7.17 ~ 7.24)  </router-link>
+      <li>숫자 야구  (7.17 ~ 7.24)  </li>
 <!--      lifeCycleHook, component, emit-->
       <li>틱택토 (7.24 ~ 7.31)</li>
     </ol>
