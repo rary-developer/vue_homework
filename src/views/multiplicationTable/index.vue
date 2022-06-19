@@ -13,6 +13,7 @@
         <td>{{dan*item}}</td>
       </tr>
     </table>
+
   </div>
 </template>
 
