@@ -5,6 +5,9 @@
 </template>
 
 <script>
+/** *
+ * 1. data만 사용할 것
+ */
 export default {
   name: 'multiplication_table',
   data() {

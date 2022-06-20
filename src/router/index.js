@@ -7,32 +7,32 @@ const routes = [
   {
     path: '/',
     name: 'Main',
-    component: () => import('@/views/index'),
+    component: () => import('@/views/index.vue'),
   },
   {
     path: '/multiplicationTable/',
     name: 'multiplication_table',
-    component: () => import('@/views/multiplicationTable/index'),
+    component: () => import('@/views/multiplicationTable/index.vue'),
   },
   {
     path: '/findWord/',
     name: 'find_word',
-    component: () => import('@/views/findWord/index'),
+    component: () => import('@/views/findWord/index.vue'),
   },
   {
     path: '/trafficLight/',
     name: 'traffic_light',
-    component: () => import('@/views/trafficLight/index'),
+    component: () => import('@/views/trafficLight/index.vue'),
   },
   {
     path: '/endTalk/',
     name: 'end_talk',
-    component: () => import('@/views/endTalk/index'),
+    component: () => import('@/views/endTalk/index.vue'),
   },
   {
     path: '/numberbaseball/',
     name: 'number_baseball',
-    component: () => import('@/views/numberBaseball/index'),
+    component: () => import('@/views/numberBaseball/index.vue'),
   },
 
 ];
