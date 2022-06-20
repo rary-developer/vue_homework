@@ -10,7 +10,10 @@
 </template>
 
 <script>
-
+/**
+ * import lyrics from '@/views/findWord/lyrics.json'; 를 사용해서 json을 가져올 것
+ * computed를 사용해서 문제를 해결할 것
+ */
 export default {
   name: 'find_word',
   data() {

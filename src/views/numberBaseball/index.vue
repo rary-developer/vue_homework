@@ -5,6 +5,9 @@
 </template>
 
 <script>
+/**
+ * 제한 없음
+ */
 export default {
   name: 'number_baseball',
   data() {

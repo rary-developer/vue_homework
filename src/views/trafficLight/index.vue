@@ -6,6 +6,9 @@
 </template>
 
 <script>
+/**
+ * methods를 사용할 것
+ */
 export default {
   name: 'traffic_light',
   data() {

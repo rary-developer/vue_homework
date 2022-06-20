@@ -13,16 +13,12 @@
     </pre>
     </div>
     <ol>
+<!--      router를 사용해서 페이지를 이동할 것-->
       <li>구구단 (6.19 ~ 6.26) </li>
-<!--      event-->
       <li>가사 속 단어 찾기 (6.26 ~ 7.3)</li>
-<!--      computed-->
       <li>신호등 (7.3 ~ 7.10) </li>
-<!--      watch, ref -->
       <li>끝말잇기  (7.10 ~ 7.17) </li>
-<!--  lifeCycleHook, watch-->
       <li>숫자 야구  (7.17 ~ 7.24)  </li>
-<!--      lifeCycleHook, component, emit-->
       <li>틱택토 (7.24 ~ 7.31)</li>
     </ol>
   </div>

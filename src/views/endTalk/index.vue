@@ -5,7 +5,11 @@
 </template>
 
 <script>
-
+/**
+ * 필요하다면 vue의 lifecyclehook을 사용할 것
+ * 필요하다면 watch를 사용할 것
+ * methods를 사용할 것
+ */
 export default {
   name: 'end_talk',
   beforeMount() {
