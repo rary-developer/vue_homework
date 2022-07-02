@@ -4,7 +4,6 @@
 
   </div>
 </template>
-
 <script>
 /**
  * methods를 사용할 것
